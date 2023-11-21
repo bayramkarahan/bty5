@@ -1,5 +1,5 @@
-Bilgisayar Sistemleri
-=====================
+5-1-2-Bilgisayar Sistemleri
+===========================
 .. toctree::
 	:glob:
 

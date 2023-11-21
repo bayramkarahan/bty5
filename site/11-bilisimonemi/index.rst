@@ -1,5 +1,5 @@
-Blişimin Önemi
-==============
+5-1-1-Bilişimin Önemi
+=====================
 .. toctree::
 	:glob:
 

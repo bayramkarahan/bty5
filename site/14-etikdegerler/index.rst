@@ -1,5 +1,5 @@
-Etik Değerler
-=============
+5-1-4-Etik Değerler
+===================
 .. toctree::
 	:glob:
 
