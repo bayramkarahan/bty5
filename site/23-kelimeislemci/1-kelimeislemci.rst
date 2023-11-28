@@ -46,6 +46,7 @@ Resmi yazışmalarda, dokümanlar şu standartlara göre hazırlanır;
     
 
 .. image:: /_static/images/kelimeislemci-temelislem.png
+  :width: 500
   :alt: Alternative text
 
 

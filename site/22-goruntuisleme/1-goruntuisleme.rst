@@ -45,8 +45,10 @@ Kullanabileceğimiz resim programları şunlardır;
 
    PageBreak
 
-Resim Araçları
-+++++++++++++++
+Resim İşeleme Araçları
+++++++++++++++++++++++
+
+- https://pixlr.com/tr/x/
 
 .. image:: /_static/images/goruntuisleme-tools.png
 	:width: 500
