@@ -44,6 +44,16 @@ Kullanabileceğimiz resim programları şunlardır;
 .. raw:: pdf
 
    PageBreak
+Resim Dosya Türleri
++++++++++++++++++++
+
+Günümüzde çok fazla resim formatı bulunmaktadır. Sık kullanılan resim dosya uzantıları şunlardır.
+
+1. jpeg/ jpg : Sıkıştırılmış resim formatıdır. Çok yaygın kullanılır.
+2. png: içerisinde saydamlık saklayan resim formatır.
+3. psd: Photoshop resim formatıdır. İçerisinde birçok obje(katman efekt vb.) barındırır.
+4. gif: Animasyon için kullanılan dosya formatıdır.
+5.svg: Vektörel çizim barındıran resmi formatıdır.
 
 Resim İşeleme Araçları
 ++++++++++++++++++++++
