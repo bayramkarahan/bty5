@@ -54,6 +54,10 @@ Resim İşeleme Araçları
 	:width: 500
 	:alt: Alternative text
 
+.. image:: /_static/images/goruntuisleme-tools1.png
+	:width: 600
+	:alt: Alternative text
+
 
 .. raw:: pdf
 
