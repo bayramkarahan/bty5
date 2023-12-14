@@ -1,6 +1,3 @@
-Algoritmik Düşünüyorum
-======================
-
 Tekrar Bloğu(Döngüler):
 +++++++++++++++++++++++
 

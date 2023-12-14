@@ -1,5 +1,5 @@
 Giriş Çıkış Örnekleri
-======================
++++++++++++++++++++++
 
 1. A butonuna basınca ismimizin baş harfi, B butonuna basınca soyadımızın baş harfini ekranda gösteren uygulama.
 

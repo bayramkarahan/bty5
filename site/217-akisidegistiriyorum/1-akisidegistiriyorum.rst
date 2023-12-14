@@ -29,7 +29,7 @@ Aşağıda algoritması verilmiş problemin akış şemasını çiziniz.
 Problem Çözümü
 --------------
 .. image:: /_static/images/akisidegistiriyorum-3.png
-  :width: 600
+  :width: 500
   :alt: Alternative text
 
 

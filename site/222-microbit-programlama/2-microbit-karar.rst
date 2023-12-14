@@ -1,6 +1,3 @@
-Algoritmik Düşünüyorum
-======================
-
 Karar Bloğu(EĞER=if): 
 +++++++++++++++++++++
 
