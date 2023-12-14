@@ -1,5 +1,5 @@
-Algoritmik Düşünüyorum
-======================
+Microbite Giriş
+===============
 
 Yeni mikro: Microbit
 +++++++++++++++++++++

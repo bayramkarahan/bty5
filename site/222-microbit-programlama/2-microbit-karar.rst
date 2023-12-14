@@ -2,8 +2,12 @@ Algoritmik Düşünüyorum
 ======================
 
 Karar Bloğu(EĞER=if): 
++++++++++++++++++++++
 
-Bir olayın gerçekleşmesine bağlı olarak çalışıp çalışmayacağını belirten blog yapısıdır..
+Bir olayın gerçekleşmesine bağlı olarak çalışıp çalışmayacağını belirten blog yapısıdır.
+
+Örnek-1:
+++++++++
 
 Aşağıda A karar ve D devamlı çalışacak fakat B-C A butonuna basınca çalışacaktır.
 
@@ -11,6 +15,8 @@ Aşağıda A karar ve D devamlı çalışacak fakat B-C A butonuna basınca çal
 	:width: 600
   	:alt: Alternative text
 
+Örnek-2:
+++++++++
 
 Aşağıda ise A butonuna basınca ismimizin baş harfi ve B butonuna basınca soyadımızın baş harfini ekrana  yazan kod bulunmaktadır.
 
