@@ -1,9 +1,9 @@
-Akışı Değiştiriyorum:
-=====================
-
+Algoritma Alıştırmaları:
+========================
 
 .. image:: /_static/images/tavsan-1.png
   :width: 600
+  :height: 800
   :alt: Alternative text
 
 .. raw:: pdf
