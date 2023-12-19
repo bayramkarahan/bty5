@@ -44,9 +44,21 @@ Resmi yazışmalarda, dokümanlar şu standartlara göre hazırlanır;
     - Kağıt dik olmalıdır.
     - Paragraflar arası 1 satır boşluk olmalıdır.
     
+.. raw:: pdf
 
-.. image:: /_static/images/kelimeislemci-temelislem.png
-  :width: 500
+   PageBreak
+   
+
+
+Kelime İşlemcide Temel Araçlar
+++++++++++++++++++++++++++++++
+
+.. image:: /_static/images/kelimeislemci-arayuz.png
+  :width: 600
+  :alt: Alternative text
+  
+.. image:: /_static/images/kelimeislemci-arac.png
+  :width: 600
   :alt: Alternative text
 
 
