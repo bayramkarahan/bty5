@@ -1,13 +1,10 @@
-Akışı Değiştiriyorum:
-=====================
-
-Akış Diyagramı Nedir?
-+++++++++++++++++++++
+**Akış Diyagramı Nedir?**
+-------------------------
 
 Akış diyagramı algoritma olarak yazılan problemi şekillerle ifade etme işlemidir.
 
-Akış Diyagramı Sembolleri:
-++++++++++++++++++++++++++
+**Akış Diyagramı Sembolleri:**
+------------------------------
 
 .. image:: /_static/images/akisidegistiriyorum-1.png
   :width: 600
@@ -17,24 +14,24 @@ Akış Diyagramı Sembolleri:
 
    PageBreak
 
-Örnek:
-++++++
+**Örnek:**
+----------
 
 Aşağıda algoritması verilmiş problemin akış şemasını çiziniz.
 
 .. image:: /_static/images/akisidegistiriyorum-2.png
   :width: 600
+  :height: 300
   :alt: Alternative text
 
-Problem Çözümü
---------------
+**Problem Çözümü**
+
 .. image:: /_static/images/akisidegistiriyorum-3.png
   :width: 500
+  :height: 400
   :alt: Alternative text
 
-
-
-Örnek: Kurt, kuzu ve ot probleminin akış şemasını yapınız.
+**Örnek:** Kurt, kuzu ve ot probleminin akış şemasını yapınız.
 
 .. raw:: pdf
 

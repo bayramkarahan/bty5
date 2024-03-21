@@ -1,26 +1,31 @@
 Yönergeleri Takip Et :
 ======================
 
-Algoritma Nedir?
-++++++++++++++++
- Algoritma bir işlemi mantık sırasıyla maddeler halinde yazma işlemidir. 
+**Algoritma Nedir?**
+--------------------
+
+Algoritma bir işlemi mantık sırasıyla maddeler halinde yazma işlemidir. 
 Tarihte ilk defa Harezmi tarafından matematik problemlerini çözmek için kullanılmıştır. 
 Algoritma her iş alanında işlemleri anlatmak için kullanılabilir. En sık yemek tariflerinde, bir cihaz kullanım kılavuzunda vb. örneklerde görmekteyiz. 
 Bunların dışında bir program yazarken ilk olarak problemin mantık sırasıyla çözümlenmesinde kullanılmaktadır. Algoritma programlamada ilk yapılması gereken adım olarak kabul edilmektedir.
 
 
-Harezmi Kimdir?
-+++++++++++++++
- Abbasi döneminde yaşamış büyük İslam bilgini olan El Harezmi, cebir ve algoritmayı keşfeden, sıfır rakamını ilk olarak açıklayan, insanlık tarihinin en önemli matematikçilerinden birisidir. Harezmi'nin neredeyse tüm kitapları Latinceye tercüme edilip batı ülkelerinde kullanılmıştır.
+**Harezmi Kimdir?**
+-------------------
+
+Abbasi döneminde yaşamış büyük İslam bilgini olan El Harezmi, cebir ve algoritmayı keşfeden, sıfır rakamını ilk olarak açıklayan, insanlık tarihinin en önemli matematikçilerinden birisidir. Harezmi'nin neredeyse tüm kitapları Latinceye tercüme edilip batı ülkelerinde kullanılmıştır.
 
 .. image:: /_static/images/biralgoritmamasali-1.png
   :width: 600
   :alt: Alternative text
 
 
-    5.5.1.13. Bir problemin çözümü için algoritma geliştirir.
+.. raw:: pdf
 
-Algoritma Nasıl Yazılır: 
+   PageBreak
+
+**Algoritma Nasıl Yazılır:**
+----------------------------
 
 Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki konuda kütüphaneden kitap alıp okumak isteyen kişinin yapması gerekenleri hatırlayalım. Bunun için aşağıda bir algoritma oluşturalım.
 
@@ -44,23 +49,24 @@ Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki ko
 
    PageBreak
    
-Örnek: 
-------
- Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız.. İşlem adımları resimle aşağıda gösterilmiştir.
+**Örnek:**
+----------
+
+Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız.. İşlem adımları resimle aşağıda gösterilmiştir.
 
 .. image:: /_static/images/biralgoritmamasali-3.png
   :width: 600
   :alt: Alternative text
 
-İşlem Adımları:
----------------
+**İşlem Adımları:**
+--------------------
 
 .. image:: /_static/images/biralgoritmamasali-4.png
   :width: 600
   :alt: Alternative text
 
-Çözümü:
--------
+**Çözümü:**
+-----------
 
 1. Başla
 2. Sandal, kuzu karşıya geçer ve sandal geri döner
@@ -73,8 +79,8 @@ Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki ko
 
    PageBreak
 
-Algoritma Özellikleri:
-++++++++++++++++++++++
+**Algoritma Özellikleri:**
+--------------------------
 
 Buna benzer şekilde yapacağımız işlemleri algoritmaya dökmemiz gerekmektedir.
 Algoritmalar yazılırken şunlara dikkat etmeliyiz.
@@ -93,8 +99,8 @@ Algoritmalar yazılırken şunlara dikkat etmeliyiz.
   :width: 600
   :alt: Alternative text
 
-Problem Çözümü:
----------------
+**Problem Çözümü:**
+-------------------
 
 Kurt yerine K1, Sandal yerine S, Ot yerine O, Kuzu yerine K2, karşıya gitme yerine >, geri gelme yerine < ifdelerini kullanalım..
 
@@ -112,13 +118,14 @@ Kurt yerine K1, Sandal yerine S, Ot yerine O, Kuzu yerine K2, karşıya gitme ye
 
    PageBreak
 
-Hanoi Kulleleri Problemi:
-+++++++++++++++++++++++++
+**Hanoi Kulleleri Problemi:**
+-----------------------------
 
 Bu problemde A sütunundan C sütununa büyükten küçüğe doğru en kısa yoldan her defasında tek disk hareket ettirerek sıralayınız. 
 
-Kurallar:
----------
+**Kurallar:**
+-------------
+
 1. Küçük disk üstte olacak.
 2. Her defasında tek disk hareket edecek
 3. En kısa hamlede yapılacak.

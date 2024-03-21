@@ -12,12 +12,13 @@ Yukarıda gösterilen problemin birden fazla çözümü bulunmaktadır. Kodlamad
 3. En kısası tercih edilmeli
 4. Anlaşılır olmalı.
    
-Örnek1: 
-+++++++
+**Örnek1:**
+------------
+
 Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız. İşlem adımları resimle aşağıda gösterilmiştir.
 
-Kurt Kuzu Ot Problemi Çözüm1:
------------------------------
+**Kurt Kuzu Ot Problemi Çözüm1:**
+---------------------------------
 
 1. Başla
 2. Koyun gider
@@ -27,8 +28,8 @@ Kurt Kuzu Ot Problemi Çözüm1:
 6. Bitir
 
 
-Kurt Kuzu Problemi Çözüm2:
---------------------------
+**Kurt Kuzu Problemi Çözüm2:**
+------------------------------
 
 1. Başla
 2. Koyun gider
@@ -41,12 +42,14 @@ Kurt Kuzu Problemi Çözüm2:
 
    PageBreak
    
-Örnek2: 
-+++++++
+**Örnek2:**
+-----------
+
 Hanoi kulesi probleminin farklı çözüm yollarını bulunuz.
 
-Kuralları:
-----------
+**Kuralları:**
+--------------
+
 - son kuleye taşınacak
 - alta küçük gelemez
 - ortadaki kule kullanılabilir.

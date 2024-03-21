@@ -1,7 +1,5 @@
-Yönergeleri Takip Et :
-======================
-
 BT.5.5.1.6. Problemi çözmek için gerekli değişken, sabit ve işlemleri açıklar.
+
 Bu Problemde sabit olan ve değişen nesneleri tespit edelim.
 
 .. image:: /_static/images/vereliniveri-1.png
@@ -9,26 +7,34 @@ Bu Problemde sabit olan ve değişen nesneleri tespit edelim.
   :alt: Alternative text
 
 
-Hanoi Kule Problemi:
-+++++++++++++++++++++
+**Hanoi Kule Problemi:**
+-------------------------
+
 Bu Problemde sabit olan ve değişen nesneleri tespit edelim.
 
 .. image:: /_static/images/vereliniveri-2.png
   :width: 400
   :alt: Alternative text
 
-Sabit & Değişken Kavramı:
-+++++++++++++++++++++++++
+.. raw:: pdf
+
+   PageBreak
+
+**Sabit & Değişken Kavramı:**
+-----------------------------
 
 Kodlamada bilgiler küçük hafıza birilerinde saklanırlar. Kodlanılan uygulama çalıştığı sürece bu bilgiler hafızada(bellekte) tutulur. Uygulama sonlandırıldığında ise bilgiler kaybolur.
 
-Değişken:
----------
+**Değişken:**
+-------------
+
  Bellek içindeki bilgi değişiyorsa değişken denilir. örn: ad ,soyad, yaş vb.
  
-Sabit:
-------
- Bellek  içindeki bilgi değişmiyorsa sabit denilir. örn: pi sayısı=3.14, altın oran sayısı,=1.618 e sayısı=2.71
+**Sabit:**
+----------
+
+ Bellek  içindeki bilgi değişmiyorsa sabit denilir. 
+ örn: pi sayısı=3.14, altın oran sayısı,=1.618 e sayısı=2.71
 
 Bu hafızalar eğer içeriği değişiyorsa "DEĞİŞKEN", değişmiyor ise "SABİT" denilmektedir.
 
@@ -36,8 +42,8 @@ Bu hafızalar eğer içeriği değişiyorsa "DEĞİŞKEN", değişmiyor ise "SAB
   :width: 600
   :alt: Alternative text
 
-Örnek:
-------
+**Örnek:**
+----------
 
 .. image:: /_static/images/vereliniveri-4.png
   :width: 600
@@ -47,8 +53,8 @@ Bu hafızalar eğer içeriği değişiyorsa "DEĞİŞKEN", değişmiyor ise "SAB
 
    PageBreak
    
-Değişken ve Sabit Yazma Kuralları:
-++++++++++++++++++++++++++++++++++
+**Değişken ve Sabit Yazma Kuralları:**
+---------------------------------------
 
 Bilişim teknolojileri ve yazılım dersinde, değişken ve sabit yazma kurallarını öğrenmeye çalışalım.
 
@@ -60,8 +66,8 @@ Değişken ve sabit oluştururken şunlara dikkat etmeliyiz;
 3. birden fazla kelimeden oluşuyorsa kelimeler arası boşluk ve özel karakterler olamaz, sadece "_" olabilir.
 4. ilk harf dışındaki karakter sayı olabilir.
 
-Örnek:
-------
+**Örnek:**
+-----------
 
 .. image:: /_static/images/vereliniveri-5.png
   :width: 600
