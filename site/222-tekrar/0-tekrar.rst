@@ -4,7 +4,6 @@ Tekrar Bloğu(Döngüler):
 Döngüler, döngü bloğu içindeki kodları tekrar tekrar çalıştıran yapılardır.
 Aşağıda aynı problemin adım adım çözümü(doğrusal) ve tekrar bloğuyla çözümü ggörülmektedir.
 
-
 Doğrusal Çözüm:
 ---------------
 
@@ -24,6 +23,12 @@ Bu işlemi tekrar bloğu kullanarak yapacağız. Çözüm aşağıda gösterilmi
 	:width: 800
   	:alt: Alternative text
 
+
+**Tekrarlarla ilgili örnekler çözmek için aşağıdaki adreslerdeki örnekleri inceleyebilirsiniz.**
+**https://studio.code.org/s/course1/lessons/13/levels/1**
+**https://studio.code.org/s/course1/lessons/14/levels/1**
+**https://studio.code.org/s/course2/lessons/6/levels/1**
+**https://studio.code.org/s/course2/lessons/8/levels/1**
 
 .. raw:: pdf
 
