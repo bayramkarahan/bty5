@@ -9,9 +9,9 @@ Eğer'de şart sağlanıyorsa eğer içindeki kod çalışacaktır.
 **Eğerle ilgili örnekler çözmek için aşağıdaki adreslerdeki örnekleri inceleyebilirsiniz.**
 
 
-1. **https://studio.code.org/s/course2/lessons/13/levels/3**
-2. **https://studio.code.org/s/course3/lessons/7/levels/1**
-3. **https://studio.code.org/s/express-2021/lessons/15/levels/1**
+1. https://studio.code.org/s/course2/lessons/13/levels/3
+2. https://studio.code.org/s/course3/lessons/7/levels/1
+3. https://studio.code.org/s/express-2021/lessons/15/levels/1
 
 
 
