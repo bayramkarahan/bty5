@@ -31,7 +31,17 @@ Aşağıda gösterilen örnek doğrusal(mantık sırasıyla, adım adım) yapıl
 Genellikle her programlama dilinde kullanılan kodlama yapılar(kavramlar) şunlardır;
 
 1. Tekrar Bloğu(Döngüler)
+
+.. image:: /_static/images/dongu.png
+	:width: 600
+  	:alt: Alternative text
+
 2. Karar Bloğu(EĞER=if)
+
+.. image:: /_static/images/eger.png
+	:width: 600
+  	:alt: Alternative text
+
 3. Değişkenler
 4. Giriş ve Çıkış İfadeleri
 
