@@ -25,10 +25,11 @@ Bu işlemi tekrar bloğu kullanarak yapacağız. Çözüm aşağıda gösterilmi
 
 
 **Tekrarlarla ilgili örnekler çözmek için aşağıdaki adreslerdeki örnekleri inceleyebilirsiniz.**
-**https://studio.code.org/s/course1/lessons/13/levels/1**
-**https://studio.code.org/s/course1/lessons/14/levels/1**
-**https://studio.code.org/s/course2/lessons/6/levels/1**
-**https://studio.code.org/s/course2/lessons/8/levels/1**
+
+1. **https://studio.code.org/s/course1/lessons/13/levels/1**
+2. **https://studio.code.org/s/course1/lessons/14/levels/1**
+3. **https://studio.code.org/s/course2/lessons/6/levels/1**
+4. **https://studio.code.org/s/course2/lessons/8/levels/1**
 
 .. raw:: pdf
 
