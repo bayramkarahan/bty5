@@ -4,10 +4,15 @@ Programlama
 Kodlama bir problemi kodlar veya bloklarla çözüme kavuşturma işlemidir.
 Kodlama(programlama) analitik düşünme gerektiren bir işlemler bütünüdür.
 Temel kodlama(programlama) yapmak için algoritma bilinmesi gerekmektedir.
-Algoritma çözümlenecek problemi mantık sırasıyla(doğrusal) maddeler halinde yazılmasıdır.
-Algoritmalara göre yazılan kodlarda doğrusal kodlama olarak tanımlanabilir.
 
-**Doğrusal Dodlama:**
+**Algoritma:**
+--------------
+
+****Algoritma çözümlenecek problemi mantık sırasıyla(doğrusal) maddeler halinde yazılmasıdır.****
+
+Algoritmalara göre yazılan kodlarda **doğrusal kodlama** olarak tanımlanabilir.
+
+**Doğrusal Kodlama:**
 ---------------------
 
 Problemin çözümünü mantık sırasıyla adım adım çözme şeklinde yapılan kodlamaya(programlamaya) **doğrusal kodlama** denir.
