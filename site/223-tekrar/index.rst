@@ -1,5 +1,5 @@
-5-2-13- Programlama Tekrarlar
-=============================
+5-2-13- Tekrar
+==============
 .. toctree::
 	:glob:
 
