@@ -8,7 +8,7 @@ Temel kodlama(programlama) yapmak için algoritma bilinmesi gerekmektedir.
 **Algoritma:**
 --------------
 
-****Algoritma çözümlenecek problemi mantık sırasıyla(doğrusal) maddeler halinde yazılmasıdır.****
+Problemi mantık sırasıyla(doğrusal) maddeler halindeçözünü yazma işlemine **algoritma** denir.
 
 Algoritmalara göre yazılan kodlarda **doğrusal kodlama** olarak tanımlanabilir.
 
