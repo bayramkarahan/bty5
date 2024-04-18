@@ -14,13 +14,16 @@ Problemin çözümünü mantık sırasıyla adım adım çözme şeklinde yapıl
 Aşağıda gösterilen örnek doğrusal(mantık sırasıyla, adım adım) yapılmıştır.
 
 .. image:: /_static/images/dogrusal-11.png
-	:width: 800
+	:width: 600
   	:alt: Alternative text
 
 .. image:: /_static/images/dogrusal-12.png
-	:width: 800
+	:width: 600
   	:alt: Alternative text
 
+.. raw:: pdf
+
+   PageBreak
 
 **Programlada Kullanılan Yapılar**
 ----------------------------------

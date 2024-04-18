@@ -5,6 +5,7 @@ Aşağıdaki resimde görünen problemi çözünüz.
 
 .. image:: /_static/images/dongu-61.png
 	:width: 600
+	:height: 400
   	:alt: Alternative text
 
 Çözüm:
@@ -12,6 +13,7 @@ Aşağıdaki resimde görünen problemi çözünüz.
 
 .. image:: /_static/images/dongu-62.png
 	:width: 600
+	:height: 400
   	:alt: Alternative text
 
 
