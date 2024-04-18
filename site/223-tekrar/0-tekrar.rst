@@ -11,7 +11,7 @@ Doğrusal Çözüm:
 Problemde 3 defa sağa ok kullanılmalıdır.
 
 .. image:: /_static/images/dongu-01.png
-	:width: 600
+	:width: 800
   	:alt: Alternative text
 
 Tekrar Bloğuyla Çözüm:
@@ -21,7 +21,7 @@ Problemde 3 defa sağa ok kullanılmalıdır. Fakat bu işmlemdeki adım  sayıs
 Bu işlemi tekrar bloğu kullanarak yapacağız. Çözüm aşağıda gösterilmiştir.
 
 .. image:: /_static/images/dongu-02.png
-	:width: 600
+	:width: 800
   	:alt: Alternative text
 
 

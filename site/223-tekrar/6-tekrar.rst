@@ -1,4 +1,4 @@
-Problem1:
+Problem6:
 ---------
 
 Aşağıdaki resimde görünen problemi çözünüz.
