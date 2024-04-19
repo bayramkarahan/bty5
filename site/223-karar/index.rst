@@ -1,4 +1,4 @@
-5-2-12- Karar(eğer)
+5-2-13- Karar(eğer)
 ===================
 .. toctree::
 	:glob:
