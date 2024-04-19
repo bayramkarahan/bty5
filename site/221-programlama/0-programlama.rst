@@ -5,12 +5,20 @@ Kodlama bir problemi kodlar veya bloklarla çözüme kavuşturma işlemidir.
 Kodlama(programlama) analitik düşünme gerektiren bir işlemler bütünüdür.
 Temel kodlama(programlama) yapmak için algoritma bilinmesi gerekmektedir.
 
+**Bilgisayar Bilimi ve Matematiğin İlişkisi**
+---------------------------------------------
+
+Bilgiler bilgisayarda **sayısal** olarak saklanmaktadır.
+Ayrıca kodlama yapmak için yapılan ilk taslak kodlar(Algoritma) gereklidir.
+
 **Algoritma:**
---------------
+..............
 
-Problemi mantık sırasıyla(doğrusal) maddeler halindeçözünü yazma işlemine **algoritma** denir.
-
+Algoritma **matematik** problemlerini çözmek için **Harezmi** tarafından geliştirilmiştir. 
+Günümüzde **algoritma** kodlaması yapılacak olan problemin taslak kodların yazılmasında kullanılmaktadır.
+Problemi mantık sırasıyla(doğrusal) maddeler halinde çözümünü yazma işlemine **algoritma** denir.
 Algoritmalara göre yazılan kodlarda **doğrusal kodlama** olarak tanımlanabilir.
+
 
 **Doğrusal Kodlama:**
 ---------------------
@@ -30,26 +38,3 @@ Aşağıda gösterilen örnek doğrusal(mantık sırasıyla, adım adım) yapıl
 
    PageBreak
 
-**Programlada Kullanılan Yapılar**
-----------------------------------
-
-Genellikle her programlama dilinde kullanılan kodlama yapılar(kavramlar) şunlardır;
-
-1. **Tekrar Bloğu(Döngüler):** Bir işlemin istenilen sayıda tekrar edilmesi durumunda kullanılır.
-
-.. image:: /_static/images/dongu.png
-	:width: 600
-  	:alt: Alternative text
-
-2. **Karar Bloğu(EĞER=if):** Bir bilginin eşitlik(=), büyüklük(>), küçüklük(<) gibi durumuna göre belirlenen kodun çalışmasını sağlayan yapıdır.
-
-.. image:: /_static/images/eger.png
-	:width: 600
-  	:alt: Alternative text
-
-3. Değişkenler
-4. Giriş ve Çıkış İfadeleri
-
-.. raw:: pdf
-
-   PageBreak
