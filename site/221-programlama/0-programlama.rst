@@ -14,15 +14,15 @@ Ayrıca kodlama yapmak için yapılan ilk taslak kodlar(Algoritma) gereklidir.
 **Algoritma:**
 ..............
 
+Problemi mantık sırasıyla(doğrusal) maddeler halinde çözümünü yazma işlemine **algoritma** denir.
 Algoritma **matematik** problemlerini çözmek için **Harezmi** tarafından geliştirilmiştir. 
 Günümüzde **algoritma** kodlaması yapılacak olan problemin taslak kodların yazılmasında kullanılmaktadır.
-Problemi mantık sırasıyla(doğrusal) maddeler halinde çözümünü yazma işlemine **algoritma** denir.
-Algoritmalara göre yazılan kodlarda **doğrusal kodlama** olarak tanımlanabilir.
 
 
 **Doğrusal Kodlama:**
 ---------------------
 
+Algoritmalara göre yazılan kodlarda **doğrusal kodlama** olarak tanımlanabilir.
 Problemin çözümünü mantık sırasıyla adım adım çözme şeklinde yapılan kodlamaya(programlamaya) **doğrusal kodlama** denir.
 Aşağıda gösterilen örnek doğrusal(mantık sırasıyla, adım adım) yapılmıştır.
 
