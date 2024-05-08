@@ -1,5 +1,5 @@
-Problem6:
----------
+**Problem6:**
+-------------
 
 Aşağıdaki resimde görünen problemi çözünüz.
 
@@ -8,8 +8,8 @@ Aşağıdaki resimde görünen problemi çözünüz.
 	:height: 400
   	:alt: Alternative text
 
-Çözüm:
-------
+**Çözüm:**
+----------
 
 .. image:: /_static/images/dongu-62.png
 	:width: 600

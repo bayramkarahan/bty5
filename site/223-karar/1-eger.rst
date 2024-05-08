@@ -1,5 +1,5 @@
-Problem1:
----------
+**Problem1:**
+-------------
 
 Aşağıdaki resimde görünen problemi çözünüz.
 
@@ -7,8 +7,8 @@ Aşağıdaki resimde görünen problemi çözünüz.
 	:width: 600
   	:alt: Alternative text
 
-Çözüm:
-------
+**Çözüm:**
+----------
 
 
 .. image:: /_static/images/eger-12.png

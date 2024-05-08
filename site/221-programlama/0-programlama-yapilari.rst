@@ -9,14 +9,14 @@ Genellikle her programlama dilinde kullanılan kodlama yapılar(kavramlar) şunl
 	:width: 600
   	:alt: Alternative text
 
-2. **Karar Bloğu(EĞER=if):** Bir bilginin eşitlik(=), büyüklük(>), küçüklük(<) gibi durumuna göre belirlenen kodun çalışmasını sağlayan yapıdır.
+2. **Karar Bloğu(EĞER=if):** Bir bilgi veya duruma göre istediğimiz kodların çalışmayasını sağlayan kod bloğudur. Bilginin eşitlik(=), büyüklük(>), küçüklük(<) gibi durumuna göre belirlenen kodun çalışmasını sağlayan yapıdır.
 
 .. image:: /_static/images/eger.png
 	:width: 600
   	:alt: Alternative text
 
-3. Değişkenler
-4. Giriş ve Çıkış İfadeleri
+3. **Değişkenler**
+4. **Giriş ve Çıkış İfadeleri**
 
 .. raw:: pdf
 

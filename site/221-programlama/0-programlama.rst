@@ -28,10 +28,12 @@ Aşağıda gösterilen örnek doğrusal(mantık sırasıyla, adım adım) yapıl
 
 .. image:: /_static/images/dogrusal-11.png
 	:width: 600
+	:height: 200
   	:alt: Alternative text
 
 .. image:: /_static/images/dogrusal-12.png
 	:width: 600
+	:height: 200
   	:alt: Alternative text
 
 .. raw:: pdf

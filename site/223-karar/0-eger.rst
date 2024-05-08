@@ -1,5 +1,5 @@
-Eğer Bloğu(Karar):
-++++++++++++++++++
+**Eğer Bloğu(Karar):**
+++++++++++++++++++++++
 
 Eğer, bir bilgi veya duruma göre  çalışmasını istediğimiz kodları kontrol eden yapıdır.
 Eğer'de şart sağlanıyorsa eğer içindeki kod çalışacaktır. Şart sağlanmıyorsa kodlar çalışmayacaktır.

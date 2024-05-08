@@ -1,5 +1,5 @@
-Problem-Test:
----------
+**Problem-Test:**
+-----------------
 
 Aşağıdaki resimde görünen problemi çözünüz.
 
@@ -7,8 +7,8 @@ Aşağıdaki resimde görünen problemi çözünüz.
 	:width: 600
   	:alt: Alternative text
 
-Çözüm:
-------
+**Çözüm:**
+----------
 
 .. image:: /_static/images/dongu-test2.png
 	:width: 600

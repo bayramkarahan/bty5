@@ -1,5 +1,5 @@
-Problem1:
----------
+**Problem1:**
+-------------
 
 Aşağıdaki resimde görünen problemi çözünüz.
 
@@ -7,8 +7,8 @@ Aşağıdaki resimde görünen problemi çözünüz.
 	:width: 600
   	:alt: Alternative text
 
-Çözüm:
-------
+**Çözüm:**
+----------
 
 Problemde 5 defa sağa ok kullanılmalıdır. Bu işlemi tekrar bloğu kullanarak yapacağız. Çözüm aşağıda gösterilmiştir.
 
