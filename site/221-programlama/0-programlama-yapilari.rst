@@ -1,4 +1,4 @@
-**Programlada Kullanılan Yapılar**
+**Kodlamada(Programlada) Kullanılan Yapılar**
 ++++++++++++++++++++++++++++++++++
 
 Genellikle her programlama dilinde kullanılan kodlama yapılar(kavramlar) şunlardır;

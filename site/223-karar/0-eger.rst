@@ -1,13 +1,15 @@
-**Eğer Bloğu(Karar):**
-++++++++++++++++++++++
+**Karar Bloğu(Eğer=if):**
++++++++++++++++++++++++++
 
 Eğer, bir bilgi veya duruma göre  çalışmasını istediğimiz kodları kontrol eden yapıdır.
-Eğer'de şart sağlanıyorsa eğer içindeki kod çalışacaktır. Şart sağlanmıyorsa kodlar çalışmayacaktır.
+
 
 Eğer'de bilgi ve durumun tespitini yapmak için yazılan ifadeye şart denir. Şartları test ve kontrol için **karşılaştırma** ve **mantık** operatörleri kullanılır.
 
 **Karşılaştırma Operatörleri:** <, >, <=, >=, !=, ==
 **Mantık Operatörleri:** ve, veya, değil
+
+Eğer'de şart sağlanıyorsa eğer içindeki kod çalışacaktır. Şart sağlanmıyorsa kodlar çalışmayacaktır.
 
 **Eğerle ilgili örnekler çözmek için aşağıdaki adreslerdeki örnekleri inceleyebilirsiniz.**
 
