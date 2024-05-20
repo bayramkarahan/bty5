@@ -11,6 +11,10 @@ Eğer'de bilgi ve durumun tespitini yapmak için yazılan ifadeye şart denir. �
 
 Eğer'de şart sağlanıyorsa eğer içindeki kod çalışacaktır. Şart sağlanmıyorsa kodlar çalışmayacaktır.
 
+.. image:: /_static/images/eger-00.png
+	:width: 600
+  	:alt: Alternative text
+
 **Eğerle ilgili örnekler çözmek için aşağıdaki adreslerdeki örnekleri inceleyebilirsiniz.**
 
 
@@ -22,23 +26,7 @@ Eğer'de şart sağlanıyorsa eğer içindeki kod çalışacaktır. Şart sağla
 
 
 
-**Problem:**
--------------
-Aşağıda görünen resimde arı 3 kare ilerleyecek ve eğer **3. karede çiçek varsa nektar** alacak.
-Burada şartımız çiçeğin olması.
 
-.. image:: /_static/images/eger-01.png
-	:width: 600
-  	:alt: Alternative text
-
-**Çözüm:**
--------------
-
-Tekrar bloğuyla 3 birim lerleniyor. Daha sonra bulunğu yerde çiçek varsa **nektar al** komutunun çalışması sağlayan bir kod eklememiz gerekmektedir. Bulunduğumuz yerde çiçek yoksa **nektar al** komutunun çalışmasını istemiyoruz. Bundan dolayı sadece çiçeğin olması şartına bağlı olarak **nektar al** komutunun çalışması gerekiyor. Bunu sağlayan kod bloğu **eğer** blok yapısıdır. Bundan dolayı eğer bloğu kullanılmıştır.
-
-.. image:: /_static/images/eger-02.png
-	:width: 600
-  	:alt: Alternative text
 
 
 .. raw:: pdf
