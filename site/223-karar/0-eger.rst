@@ -13,7 +13,7 @@ Eğer'de şart sağlanıyorsa eğer içindeki kod çalışacaktır. Şart sağla
 
 .. image:: /_static/images/eger-000.png
 	:width: 600
-	:height: 200
+	:height: 250
   	:alt: Alternative text
 
 **Örnek:**
@@ -25,7 +25,7 @@ Aşağıda arının nektar alıp almayacağını çiçekteki nektar değerine g�
 
 .. image:: /_static/images/eger-001.png
 	:width: 600
-	:height: 250
+	:height: 300
   	:alt: Alternative text
 
 .. raw:: pdf
