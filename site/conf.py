@@ -15,11 +15,11 @@ smartquotes = False
 
 # -- Options for PDF output --
 
-pdf_documents = [('index', u'Bilişim Teknolojileri ve Yazılım Dersi', u'BTY 5. Sınıf'),]
+pdf_documents = [('index', u'rst2pdf', u'Bilişim Teknolojileri ve Yazılım Dersi', u'BTY 5. Sınıf'),]
 pdf_stylesheets = ['style-main.yaml', 'tango']
 pdf_font_path = ['/usr/share/fonts', '/usr/share/texmf-dist/fonts/']
 pdf_style_path = [ '.', 'site/_static']
-pdf_use_coverpage = False
+pdf_use_coverpage = True
 pdf_use_toc = True
 pdf_default_dpi = 96
 pdf_compressed = True
