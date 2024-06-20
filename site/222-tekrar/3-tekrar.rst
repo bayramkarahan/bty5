@@ -10,6 +10,8 @@ Aşağıdaki resimde görünen problemi çözünüz.
 **Çözüm:**
 ----------
 
+Bu örneğimizde tekrarlar ile ilgili temel işlem anlatıldı.
+
 .. image:: /_static/images/dongu-32.png
 	:width: 550
   	:alt: Alternative text
