@@ -21,8 +21,8 @@ Gözümüzle gördüğümüz bilgisayar parçalarıdır.
   :width: 400
   :alt: Alternative text
 
-Giriş Birimleri
----------------
+Giriş Donanımları
+-----------------
 
 Bilgisayar bilgi girişi yapan donanım parçalarıdır. Bunlar;
 
@@ -33,8 +33,8 @@ Bilgisayar bilgi girişi yapan donanım parçalarıdır. Bunlar;
 - mikrofon (ses girdisi)
 
 
-Çıkış Birimleri
----------------
+Çıkış Donanımları
+-----------------
 
 Bilgisayar bilgi çıkışı yapan donanım parçalarıdır. Bunlar;
 
