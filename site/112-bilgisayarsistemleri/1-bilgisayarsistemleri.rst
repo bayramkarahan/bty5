@@ -50,7 +50,7 @@ bilginin bellekte kapladığı alanı ifade etmek için kullanılan alan ölçek
 - bit(b): en küçük bilgi kapasitesidir. 0 veya 1 bilgisini ifade eder.
 - Byte(B): 8 bit 1 B eder.
 - Kilo Byte(KB): 1024 byte 1 KB ifade eder.
-- Mega Byte: 1024 KB 1 GB eder.
+- Mega Byte: 1024 KB 1 MB eder.
 - Giga Byte : 1024 MB 1 GB eder
 - Tera Byte: 1024 GB 1 TB eder.
 
