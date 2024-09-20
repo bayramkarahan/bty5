@@ -1,5 +1,5 @@
-Bilişimin Alanları
-++++++++++++++++++
+Bilişimin Kullanıldığı Alanları
++++++++++++++++++++++++++++++++
 
 Bit bütün iş alanlarında çok önemli bir yeri vardır.
 Bu Alanlar;
