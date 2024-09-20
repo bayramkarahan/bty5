@@ -8,18 +8,18 @@ Bit cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en az
 	  :width: 400
 	  :alt: Alternative text
 
-    - Sık Sık çalışmaya ara vermeliyiz
-    - Ekrandan 45cm uzak durmalıyız.
+    - Sık Sık mola vermeliyiz
+    - Ekrana 45cm uzaktan bakmalıyız.
 	.. image:: /_static/images/bilisimonemi-saglik-goz.png
 	  :width: 400
 	  :alt: Alternative text
   
     - Bulunduğumuz ortamı havalandırmalıyız
-    - Bulunduğumuz ortamın ışıklandırmasını gözden geçirmeliyiz.
-    - Devamlı tekrar eden hareketlerden uzak durmalıyız.
-    - Ruh sağlımız bozulabilir.
+    - Bulunduğumuz ortamın ısı, ışık seviyesi uygun olmalı.
+    - Devamlı tekrar eden hareketler yapmamalıyız.
+    - Günlük bilişim cihazlarını 2 saatten fazla kullanmamalıyız.
      
-    - Karpal tunel sendromu konusunda bilgilenmeliyiz
+    - Karpal tunel sendrom(bilekte sinir sıkışması) konusunda bilgilenmeliyiz
 
 	.. image:: /_static/images/bilisimonemi-saglik-karpal.png
 	  :width: 400
