@@ -27,7 +27,7 @@ Bilişim teknolojilerini kullanarak internette yaptığımız eylemlerin etik ku
 KVKK(Kişisel Verileri Koruma Kurumu):
 +++++++++++++++++++++++++++++++++++++
 
-Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sağlamak ve gözetmek için kurulmuş olan düzenleyici ve denetleyici bir kurumdur.
+Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sağlamak ve gözetmek için kurulmuş olan düzenleyici ve denetleyici bir kurumdur. Bu kurumun **Kişisel Verileri Koruma Kanunu** bulunmaktadır.
 
 .. image:: /_static/images/etikdegerler-kvkk.png
   :width: 400
@@ -44,7 +44,7 @@ Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sa
 Siber Zorbalık(internet Zorbalığı):
 +++++++++++++++++++++++++++++++++++
 
-Siber zorbalık, bilgi ve iletişim teknolojilerini kullanarak bir birey ya da gruba yapılan zarar verme davranışlarıdır.
+Siber zorbalık, bilgi ve iletişim teknolojilerini kullanarak internet üzerinden kişi veya kişilere yapılan zarar verme davranışlarıdır.
 
 
 .. image:: /_static/images/etikdegerler-siberzorba.png
