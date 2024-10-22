@@ -37,6 +37,8 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 	
 * Şifrelerimizi başkalarının tahmin edemeyeceği kadar karmaşık yapmalıyız
 
+https://www.passwordmonster.com/
+
 .. image:: /_static/images/gizlilik-guvenlik-strongpassword.png
   :width: 400
   :alt: Alternative text
