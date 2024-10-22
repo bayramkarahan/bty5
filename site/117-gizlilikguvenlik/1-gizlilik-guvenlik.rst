@@ -40,6 +40,13 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 .. image:: /_static/images/gizlilik-guvenlik-strongpassword.png
   :width: 400
   :alt: Alternative text
+
+* Kameranın çeşitli uygulamalarda açıldığını kontrol etmelisiniz
+* Eğlenceli web uygulamalarında bilgilerinin toplandığını unutmayın
+* Üyelik isteyen sitelerde daha dikkatli ol
+* E-postanıza gelen bilmediğiniz dosya ve bağlantıları açma
+* Hediye kazandın tarzı etkinliklere katılmamalıyız.
+
 	
 .. raw:: pdf
 
