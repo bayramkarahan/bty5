@@ -6,3 +6,4 @@ do
 rst2html "$i" "./html${i%}.html"
 #echo  "./html${i%}.html"
 done
+ 
