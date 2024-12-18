@@ -4,16 +4,12 @@ Bit cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en az
 
 
     - Ergonomik ürünler tercih etmeliyiz
-	.. image:: /_static/images/bilisimonemi-saglik-boyun.png
+	.. image:: /_static/images/bilisimonemi-saglik-boyun.svg
 	  :width: 400
 	  :alt: Alternative text
 
     - Sık Sık mola vermeliyiz
     - Ekrana 45cm uzaktan bakmalıyız.
-	.. image:: /_static/images/bilisimonemi-saglik-goz.png
-	  :width: 400
-	  :alt: Alternative text
-  
     - Bulunduğumuz ortamı havalandırmalıyız
     - Bulunduğumuz ortamın ısı, ışık seviyesi uygun olmalı.
     - Devamlı tekrar eden hareketler yapmamalıyız.
@@ -21,7 +17,7 @@ Bit cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en az
      
     - Karpal tunel sendrom(bilekte sinir sıkışması) konusunda bilgilenmeliyiz
 
-	.. image:: /_static/images/bilisimonemi-saglik-karpal.png
+	.. image:: /_static/images/bilisimonemi-saglik-karpal.svg
 	  :width: 400
 	  :alt: Alternative text
   	

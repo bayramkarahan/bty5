@@ -11,7 +11,7 @@ Bu Alanlar;
     - Ulaşım
     - Bankacılık
     - Güvenlik
-.. image:: /_static/images/bilisimonemi-alanlar.png
+.. image:: /_static/images/bilisimonemi-alanlar.svg
   :width: 500
   :alt: Alternative text
 	

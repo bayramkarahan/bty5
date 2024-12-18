@@ -7,7 +7,7 @@ Bilgisayar parçaları iki gruba ayrılır. Bunlar;
 ----------
 Kasa içinde bulunan bilgisayar parçalarıdır.
 
-.. image:: /_static/images/bilgisayarsistem-ic.png
+.. image:: /_static/images/bilgisayarsistem-ic.svg
   :width: 400
   :alt: Alternative text
 
@@ -17,7 +17,7 @@ Dış Donanım
 
 Gözümüzle gördüğümüz bilgisayar parçalarıdır.
 
-.. image:: /_static/images/bilgisayarsistem-dis.png
+.. image:: /_static/images/bilgisayarsistem-dis.svg
   :width: 400
   :alt: Alternative text
 

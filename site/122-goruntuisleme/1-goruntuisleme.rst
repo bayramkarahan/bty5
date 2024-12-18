@@ -3,7 +3,7 @@ Görüntü işlem programları 3 renkle çalışmaktadır. Bu renkler;
 - Green(Yeşil)
 - Blue(Mavi)
 
-	.. image:: /_static/images/goruntuisleme-rgb.png
+	.. image:: /_static/images/goruntuisleme-rgb.svg
 	  :width: 250
 	  :alt: Alternative text
 
@@ -53,7 +53,7 @@ Günümüzde çok fazla resim formatı bulunmaktadır. Sık kullanılan resim do
 2. png: içerisinde saydamlık saklayan resim formatır.
 3. psd: Photoshop resim formatıdır. İçerisinde birçok obje(katman efekt vb.) barındırır.
 4. gif: Animasyon için kullanılan dosya formatıdır.
-5.svg: Vektörel çizim barındıran resmi formatıdır.
+5. svg: Vektörel çizim barındıran resmi formatıdır.
 
 Resim İşeleme Araçları
 ++++++++++++++++++++++

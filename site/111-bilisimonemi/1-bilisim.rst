@@ -26,10 +26,7 @@ Günümüzde teknolojinin gelişmesiyle birlikte içerisinde sayısal işleme ü
   :width: 500
   :alt: Alternative text
 
-.. image:: /_static/images/bilisimonemi-2.png
-  :width: 500
-  :alt: Alternative text
-	
+
 .. raw:: pdf
 
    PageBreak
