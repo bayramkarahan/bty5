@@ -22,7 +22,7 @@ Günümüzde teknolojinin gelişmesiyle birlikte içerisinde sayısal işleme ü
 - Klima
 - Drone
 
-.. image:: /_static/images/bilisimonemi-1.png
+.. image:: /_static/images/bilisimonemi-1.svg
   :width: 500
   :alt: Alternative text
 
