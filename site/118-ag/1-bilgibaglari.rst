@@ -10,7 +10,7 @@ Yerel Alan Ağları(LAN), Kablosuz Yerel Alan Ağı(WLAN)
 
 Aynı ortamdaki bilgisayarların bağlanmasıyla oluşturulan ağ yapısıdır. Örneğin bilişim laboratuvarı, internet Kafe , ofis vb. yapılar.
 
-.. image:: /_static/images/ag-lan.png
+.. image:: /_static/images/ag-lan.svg
   :width: 400
   :alt: Alternative text
 	
@@ -23,7 +23,7 @@ Metropol Alan Ağı(MAN):
 
 Lan ağlarının birleşmesiyle oluşan yağıdır. Örneğin bir şehrin veya ilçenin tamamının birleştirilmiş halidir.
 
-.. image:: /_static/images/ag-man.png
+.. image:: /_static/images/ag-man.svg
   :width: 400
   :alt: Alternative text
 
@@ -33,7 +33,7 @@ Geniş Alan Ağı(WAN):
 
 Dünyadaki metropol ağlarının  birleşmesiyle oluşan yapıdır. Kısacası İnternettir.
 
-.. image:: /_static/images/ag-wan.png
+.. image:: /_static/images/ag-wan.svg
   :width: 400
   :alt: Alternative text
   
