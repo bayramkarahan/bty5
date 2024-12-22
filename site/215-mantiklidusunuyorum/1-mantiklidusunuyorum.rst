@@ -40,7 +40,7 @@ Ders notum >= 50 ise dersi geçerim.
 
 **VE:** iki şartın birlikte olması gerekir
 
-.. image:: /_static/images/mantiklidusunuyorum-1.png
+.. image:: /_static/images/mantiklidusunuyorum-1.svg
   :width: 600
   :height: 225 
   :alt: Alternative text
@@ -49,7 +49,7 @@ Kimlik bilgilerimi ve şifremi biliyorsam ebaya girebilirim.
 
 **VEYA:** iki şartın birisi olması yeterli
 
-.. image:: /_static/images/mantiklidusunuyorum-2.png
+.. image:: /_static/images/mantiklidusunuyorum-2.svg
   :width: 600
   :height: 225 
   :alt: Alternative text
@@ -57,11 +57,6 @@ Kimlik bilgilerimi ve şifremi biliyorsam ebaya girebilirim.
 Otobüs veya dolmuşa binersem şehir merkezine giderim.
 
 **DEĞİL:** şartın tersini ifade eder.
-
-.. image:: /_static/images/mantiklidusunuyorum-3.png
-  :width: 600
-  :height: 225
-  :alt: Alternative text
 
 .. raw:: pdf
 

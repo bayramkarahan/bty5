@@ -7,41 +7,42 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 
 * Bilgisayarımızda güncel bir virüs programı kullanmalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-virus.png
-  :width: 400
+.. image:: /_static/images/gizlilik-guvenlik-virus.svg
+  :width: 150
   :alt: Alternative text
 	
 * Güvenlik duvarını açık tutmalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-firewall.png
-  :width: 400
+.. image:: /_static/images/gizlilik-guvenlik-firewall.svg
+  :width: 150
   :alt: Alternative text
 
 	
-.. raw:: pdf
-
-   PageBreak
-
-
 * Ortak internet aboneliklerini kullanmamalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-ortakag.png
-  :width: 400
+.. image:: /_static/images/gizlilik-guvenlik-ortakag.svg
+  :width: 150
   :alt: Alternative text
 
 * Mutlaka bt cihazımıza şifre koymalıyız.
 
-.. image:: /_static/images/gizlilik-guvenlik-password.png
-  :width: 400
+.. image:: /_static/images/gizlilik-guvenlik-password.svg
+  :width: 150
   :alt: Alternative text
-	
+
+.. raw:: pdf
+
+   PageBreak
+   
 * Şifrelerimizi başkalarının tahmin edemeyeceği kadar karmaşık yapmalıyız
 
 https://www.passwordmonster.com/
 
-.. image:: /_static/images/gizlilik-guvenlik-strongpassword.png
-  :width: 400
-  :alt: Alternative text
+- abc
+- 123
+- abc123
+- Abc+123
+- Abc+123%
 
 * Kameranın çeşitli uygulamalarda açıldığını kontrol etmelisiniz
 * Eğlenceli web uygulamalarında bilgilerinin toplandığını unutmayın

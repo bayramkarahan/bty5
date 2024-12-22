@@ -10,7 +10,7 @@ Etik yaptığımız davranışların ahlak açısından uygun olup olmadığın�
 
 Bilişim teknolojilerini kullanarak internette yaptığımız eylemlerin etik kurallara uygun olarak yapılması gerekmektedir. Etik kurallara uygun olmadığında bir çok maddi manevi olumsuzluklarla karşılaşabiliriz.
 
-.. image:: /_static/images/etikdegerler-etik.png
+.. image:: /_static/images/etikdegerler-etik.svg
   :width: 400
   :alt: Alternative text
 
@@ -29,7 +29,7 @@ KVKK(Kişisel Verileri Koruma Kurumu):
 
 Kişisel Verileri Koruma Kurumu, Türkiye'de kişisel verilerin korunmasını sağlamak ve gözetmek için kurulmuş olan düzenleyici ve denetleyici bir kurumdur. Bu kurumun **Kişisel Verileri Koruma Kanunu** bulunmaktadır.
 
-.. image:: /_static/images/etikdegerler-kvkk.png
+.. image:: /_static/images/etikdegerler-kvkk.svg
   :width: 400
   :alt: Alternative text
 
@@ -47,7 +47,7 @@ Siber Zorbalık(internet Zorbalığı):
 Siber zorbalık, bilgi ve iletişim teknolojilerini kullanarak internet üzerinden kişi veya kişilere yapılan zarar verme davranışlarıdır.
 
 
-.. image:: /_static/images/etikdegerler-siberzorba.png
+.. image:: /_static/images/etikdegerler-siberzorba.svg
   :width: 400
   :alt: Alternative text
 

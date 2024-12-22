@@ -27,7 +27,7 @@ Dijital kimlik internet üzerinden oluşturduğumuz kullanıcı hesapları ve bu
 - Instagram Hesabı,
 - Twitter Hesabı vb.
 
-.. image:: /_static/images/dijitalvatandaslik-hesap.png
+.. image:: /_static/images/dijitalvatandaslik-hesap.svg
   :width: 400
   :alt: Alternative text
 
@@ -43,7 +43,7 @@ Dijital Kimliğimizle Dikkat Etmemiz Gerekenler:
     - Sosyal medyada çok az fotoğraf vb. bilgiler paylaşmalıyız.
     - Sosyal medyada yorum, eleştiri, beğeni, öneri, hakaret vb. eylemler yapmamalıyız.
 
-.. image:: /_static/images/dijitalvatandaslik-kimlik.png
+.. image:: /_static/images/dijitalvatandaslik-kimlik.svg
   :width: 400
   :alt: Alternative text
 

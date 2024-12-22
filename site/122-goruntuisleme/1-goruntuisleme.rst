@@ -60,14 +60,9 @@ Resim İşeleme Araçları
 
 - https://pixlr.com/tr/x/
 
-.. image:: /_static/images/goruntuisleme-tools.png
+.. image:: /_static/images/goruntuisleme-tools.svg
 	:width: 500
 	:alt: Alternative text
-
-.. image:: /_static/images/goruntuisleme-tools1.png
-	:width: 600
-	:alt: Alternative text
-
 
 .. raw:: pdf
 

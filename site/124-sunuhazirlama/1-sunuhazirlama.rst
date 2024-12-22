@@ -18,7 +18,7 @@ Sunu hazırlarken dikkat edilmesi gereken kurallar şunlardır;
     - İçerik en az 18 punto
     - En fazla 3 renk kullanılmalı
     - 6 satır 6 kelime kuralına uyulmalı
-        .. image:: /_static/images/sunuhazirlama-66.png
+        .. image:: /_static/images/sunuhazirlama-66.svg
 	  :width: 350
 	  :alt: Alternative text
 
@@ -29,20 +29,20 @@ Sunu hazırlarken dikkat edilmesi gereken kurallar şunlardır;
 
 - Yazı, ses, fotoğraf ve film kullanılmalı
 
-.. image:: /_static/images/sunuhazirlama-multimedia.png
+.. image:: /_static/images/sunuhazirlama-multimedia.svg
   :width: 350
   :alt: Alternative text
 
 - Başlıklarda sıcak renkler
 - İçerikte ara renkler
 - Zeminlerde soğuk renkler tercih edilmelidir
-.. image:: /_static/images/sunuhazirlama-renk.png
+.. image:: /_static/images/sunuhazirlama-renk.svg
   :width: 350
   :alt: Alternative text
 
 - Sayfanın önemli bölümlerini iyi kullanmalıyız.
 
-.. image:: /_static/images/sunuhazirlama-onemlibolum.png
+.. image:: /_static/images/sunuhazirlama-onemlibolum.svg
   :width: 350
   :alt: Alternative text
 

@@ -1,7 +1,7 @@
 En İyi Çözümüm Buldum:
 ======================
 
-.. image:: /_static/images/eniyicozumubuldum-1.png
+.. image:: /_static/images/eniyicozumubuldum-1.svg
   :width: 600
   :alt: Alternative text
 

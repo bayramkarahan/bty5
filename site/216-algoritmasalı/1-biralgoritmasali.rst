@@ -13,16 +13,7 @@ Bunların dışında bir program yazarken ilk olarak problemin mantık sırasıy
 **Harezmi Kimdir?**
 -------------------
 
-Abbasi döneminde yaşamış büyük İslam bilgini olan El Harezmi, cebir ve algoritmayı keşfeden, sıfır rakamını ilk olarak açıklayan, insanlık tarihinin en önemli matematikçilerinden birisidir. Harezmi'nin neredeyse tüm kitapları Latinceye tercüme edilip batı ülkelerinde kullanılmıştır.
-
-.. image:: /_static/images/biralgoritmamasali-1.png
-  :width: 600
-  :alt: Alternative text
-
-
-.. raw:: pdf
-
-   PageBreak
+Harezmi matematik alanında birçok keşfi bulunan bilim adamıdır. Sıfır rakamını bulmuştur. Matematik problemlerini belirli bir mantık sırasıyla çözümleneceğini tarif etmiştir. Bu çözümleme yöntemini günümüzde  algoritma  olarak yazılım geliştirmenin temel adımı olarak kullanmaktayız.
 
 **Algoritma Nasıl Yazılır:**
 ----------------------------
@@ -31,7 +22,7 @@ Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki ko
 
 Öncelikle ilk maddemiz Başla ifadesi ve son maddemizde Son ifadesi olacak şekilde yapalım.
 
-.. image:: /_static/images/biralgoritmamasali-2.png
+.. image:: /_static/images/biralgoritmamasali-2.svg
   :width: 600
   :alt: Alternative text
 
@@ -54,14 +45,14 @@ Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki ko
 
 Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız.. İşlem adımları resimle aşağıda gösterilmiştir.
 
-.. image:: /_static/images/biralgoritmamasali-3.png
+.. image:: /_static/images/biralgoritmamasali-kk0-1.svg
   :width: 600
   :alt: Alternative text
 
 **İşlem Adımları:**
 --------------------
 
-.. image:: /_static/images/biralgoritmamasali-4.png
+.. image:: /_static/images/biralgoritmamasali-kk0-2.svg
   :width: 600
   :alt: Alternative text
 
@@ -95,7 +86,7 @@ Algoritmalar yazılırken şunlara dikkat etmeliyiz.
 
 Şimdi Kurt, Kuzu Ot problemini algoritma kurallarına göre yazalım.
 
-.. image:: /_static/images/biralgoritmamasali-3.png
+.. image:: /_static/images/biralgoritmamasali-kk0-1.svg
   :width: 600
   :alt: Alternative text
 
@@ -130,7 +121,7 @@ Bu problemde A sütunundan C sütununa büyükten küçüğe doğru en kısa yol
 2. Her defasında tek disk hareket edecek
 3. En kısa hamlede yapılacak.
 
-.. image:: /_static/images/biralgoritmamasali-5.png
+.. image:: /_static/images/biralgoritmamasali-hanoi-1.svg
   :width: 600
   :alt: Alternative text
 

@@ -4,7 +4,7 @@ Dijital Zorba(Siber Zorba):
 İnternet ve bilgisayar kullanarak yapılan(şiddet,dolandırma, tehdit vb.) eylemlerine denir.
 Bu dijital zorbalık yapan kişilere dijital zorba denir.
 
-.. image:: /_static/images/dijitalzorba-zorba.png
+.. image:: /_static/images/dijitalzorba-zorba.svg
   :width: 300
   :alt: Alternative text
 
@@ -21,7 +21,7 @@ Zombi Bilgisayar:
 
 Başkalarının yönetimini eline geçirdiği bilgisayarlara denilir. Önlemek için güvenlik duvarı ve antivirüs programı gereklidir.
 
-.. image:: /_static/images/dijitalzorba-zombi.png
+.. image:: /_static/images/dijitalzorba-zombi.svg
   :width: 300
   :alt: Alternative text
 	

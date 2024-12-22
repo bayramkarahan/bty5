@@ -21,7 +21,7 @@ Bir Problemin çözümü için geliştirilen çalışma.
 
 Yazılım geliştirmek için problemin çözümünü ortaya oluşturulan maddeler halindeki çözümleme.
 
-.. image:: /_static/images/problemcozme-1.png
+.. image:: /_static/images/problemcozme-1.svg
   :width: 600
   :alt: Alternative text
 

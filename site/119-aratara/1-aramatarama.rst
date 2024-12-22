@@ -2,7 +2,7 @@ Web Tarayıcıları
 ++++++++++++++++
 İnternette bilgileri görebilmemiz için gerekli olan yazılımlara web tarayıcısı denilmektedir. Dünya genelinde yüzlerce web tarayıcı bulunmaktadır. Fakat sık kullanılanlar şunlardır;
 
-.. image:: /_static/images/arama-tarama-tarayici.png
+.. image:: /_static/images/arama-tarama-tarayici.svg
   :width: 400
   :height: 200
   :alt: Alternative text
@@ -20,7 +20,7 @@ Arama Motorları
 
 Web tarayıcılarına aranan bilgilerin bulunup getilmesini sağlayan uygulamalara arama motoru denilmektedir.
 
-.. image:: /_static/images/arama-tarama-aramamotor.png
+.. image:: /_static/images/arama-tarama-aramamotor.svg
   :width: 400
   :height: 200
   :alt: Alternative text
@@ -39,7 +39,7 @@ Web Sitesi Adres Yapısı
 +++++++++++++++++++++++
 
 
-.. image:: /_static/images/arama-tarama-websiteadi.png
+.. image:: /_static/images/arama-tarama-websiteadi.svg
   :width: 400
   :alt: Alternative text
 
@@ -65,7 +65,7 @@ Web sitesinin içerinde ne tür bilgi paylaşılıyorsa ona göre web sitesi tü
 
 Not:  gov uzantılı web siteleri almak için nic.tr web sitesinden izin alınması gerekmektedir.
 
-.. image:: /_static/images/arama-tarama-uzanti.png
+.. image:: /_static/images/arama-tarama-uzanti.svg
   :width: 400
   :alt: Alternative text
   
