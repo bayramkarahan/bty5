@@ -60,11 +60,14 @@ Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazı
 -----------
 
 1. Başla
-2. Sandal, kuzu karşıya geçer ve sandal geri döner
-3. Sandal, ot karşıya geçer ve sandal kuzu geri döner
-4. Sandal, Kurt karşıya geçer ve sandal geri döner
-5. Sandal, kuzu karşıya geçer..
-6. Son
+2. adam, kuzu <--
+3. adam -->
+4. adam, ot <--
+5. adam, kuzu --> 
+6. adam, kurt <--
+7. adam -->
+8. adam, kuzu <--
+9. Son
 
 .. raw:: pdf
 

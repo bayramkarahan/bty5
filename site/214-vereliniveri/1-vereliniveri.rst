@@ -1,20 +1,21 @@
 BT.5.5.1.6. Problemi çözmek için gerekli değişken, sabit ve işlemleri açıklar.
 
-Bu Problemde sabit olan ve değişen nesneleri tespit edelim.
+Kurt-kuzu-ot probleminde sandal tüm nesneleri üzerinde taşımaktadır. Adam sandal üzerinde sürekli sabit kalmakta ve kurt-kuzu-ot ise sürekli değimektedir. Bilgisayar üzerinde kodlama yaparken bilgilerin saklanma yöntemide kurt-kuzu-ot probleminin sandal üzerinde taşınmasına benzemektedir. Bu durum aşağıdaki resimde gösterilmektedir. Hiç değişmeyenlere sabit, değişkenlik gösterenlere ise değişken denilmektedir.
 
 .. image:: /_static/images/vereliniveri-1.png
   :width: 600
   :alt: Alternative text
+ 
+**Örnekler**
+---------
+Kurt kuzu ot probleminde ; 
+Bellek:Sandal, Sabit :Adam, Değişken:kurt,kuzu, ot
 
+Evimizde yaşayan insanlar açısında  bellek, sabit , değişkenler;
+Bellek:Ev, Sabit:Evde yaşayanlar, değişken:misafir
 
-**Hanoi Kule Problemi:**
--------------------------
-
-Bu Problemde sabit olan ve değişen nesneleri tespit edelim.
-
-.. image:: /_static/images/vereliniveri-2.png
-  :width: 400
-  :alt: Alternative text
+Kendine ait kupadan farklı içeceklerin içilmesi durumunda bellek, sabit , değişkenler;
+Bellek:kupa, Sabit:adam, değişken:su, çay, kola vb.
 
 .. raw:: pdf
 

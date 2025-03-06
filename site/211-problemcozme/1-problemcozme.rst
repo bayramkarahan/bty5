@@ -4,50 +4,27 @@ Temel Kavramlar
 **Günlük Hayatta Problem:**
 ---------------------------
 
-Çözülmesi gereken sorun. 
+Çözülmesi gereken sorun. Örneğin karnımızın acıkması, uykumuzun gelmesi, yorulmamız vb.
 
 **Günlük Hayatta Problem Çözümlemesi:**
 ---------------------------------------
 
-Sorunun Çözümü için yapılan işlemler.
+Sorunun çözümü için yapılan işlemler. 
+Örneğin;
+- Karnımızın acıkması= Karnımızı doyurmak.
+- Uykumuzun gelmesi= Uyumak.
+- Yorulmamız= Dinlenmek.
 
 **Bilişimde Problem(Yazılım Uygulaması):**
 ------------------------------------------
 
-Bir Problemin çözümü için geliştirilen çalışma.
+Birçok problemimizi bilgisayar veya telefon kullanmadan çözmemiz zor olabilmektedir. Örneğin işyerinin hesapları takip etmek, bir otelin konaklayanlarının işlewrini takip etmek vb.
 
 **Bilişimde Problem Çözümlemesi(Algoritma):**
 ---------------------------------------------
 
-Yazılım geliştirmek için problemin çözümünü ortaya oluşturulan maddeler halindeki çözümleme.
-
-.. image:: /_static/images/problemcozme-1.svg
-  :width: 600
-  :alt: Alternative text
-
-**Örnek:**
-----------
-
-Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız. İşlem adımları resimle aşağıda gösterilmiştir.
-
-**Kurt Kuzu Ot Problemi Çözüm1:**
----------------------------------
-
-1. başla
-2. koyun gider
-3. ot gider koyun gelir
-4. kurt gider sandalcı geri döner
-5. koyun gider
-
-
-**Kurt Kuzu Problemi Çözüm2:**
-------------------------------
-
-1. başla
-2. koyun gider
-3. kurt gider koyun gelir
-4. ot gider sandalcı geri döner
-5. koyun gider
+Bir çok problemimizi bilgisayar ve telefonda çalışan uygulamalar sayeyinde çözmekteyiz. Bu uygulamalar sayesinde bir çok sorunumuzu çözebilmekteyiz. Bu yazılımları oluşturmak(kodlamak) için yapılan işlemlere **kodlama** denilir. Uygulamaların sorunları nasıl çözeceğini ve uygulamanı yapacağı işlem adımları yazma işlemine **Bilişimde Problem Çözümlemesi(Algoritma)** denir.  
+Problemin çözümü maddeler halinde yazılmalıdır.
 
 	
 .. raw:: pdf

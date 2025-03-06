@@ -12,31 +12,34 @@ Yukarıda gösterilen problemin birden fazla çözümü bulunmaktadır. Kodlamad
 3. En kısası tercih edilmeli
 4. Anlaşılır olmalı.
    
-**Örnek1:**
-------------
+**Örnek:**
+----------
 
-Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız. İşlem adımları resimle aşağıda gösterilmiştir.
+Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için işlem adımlarını yazınız. İşlem adımları resimle aşağıda gösterilmiştir.
 
 **Kurt Kuzu Ot Problemi Çözüm1:**
 ---------------------------------
 
-1. Başla
-2. Koyun gider
-3. Ot gider koyun gelir
-4. Kurt gider sandalcı geri döner
-5. Koyun gider
-6. Bitir
+1. adam, kuzu <--
+2. adam -->
+3. adam, ot <--
+4. adam, kuzu --> 
+5. adam, kurt <--
+6. adam -->
+7. adam, kuzu <--
 
 
 **Kurt Kuzu Problemi Çözüm2:**
 ------------------------------
 
-1. Başla
-2. Koyun gider
-3. Kurt gider koyun gelir
-4. Ot gider sandalcı geri döner
-5. Koyun gider
-6. Bitir
+1. adam, kuzu <--
+2. adam -->
+3. adam, kurt <--
+4. adam, kuzu --> 
+5. adam, ot <--
+6. adam -->
+7. adam, kuzu <--
+
 
 .. raw:: pdf
 
