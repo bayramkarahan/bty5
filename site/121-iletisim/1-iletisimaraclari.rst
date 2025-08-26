@@ -57,26 +57,25 @@ Sanal Ortamda İletişimin Olumlu Yönleri:
 Sanal Ortamda İletişimin Olumsuz Yönleri:
 +++++++++++++++++++++++++++++++++++++++++
 
-    - Sağlımız bozulabilir.
+- Sağlımız bozulabilir.
     	    
-	.. image:: /_static/images/iletisim-araclari-saglik.svg
-	  :width: 150
-	  :alt: Alternative text
+.. image:: /_static/images/iletisim-araclari-saglik.svg
+  :width: 200
+  :alt: Alternative text
 
-    - Bilinçli ya da bilinçsiz suç işleyebiliriz.
+- Bilinçli ya da bilinçsiz suç işleyebiliriz.
 	    
-	.. image:: /_static/images/iletisim-araclari-dolandirma.svg
-	  :width: 150
-	  :alt: Alternative text
+.. image:: /_static/images/iletisim-araclari-dolandirma.svg
+  :height: 200
+  :alt: Alternative text
 
-    - Maddi manevi zarara uğrayabiliriz(Dolandırılmak).
+- Maddi manevi zarara uğrayabiliriz(Dolandırılmak).
+- İnternette bulunan bilgilerin bir denetimden geçmeden sunulduğunu bilerek değerlendirmeliyiz. Bundan dolayı yanlış bilgilerler yönlendirilebilir veya yanlış bilgilerler iş ve işlemler yapabiliriz.
+- İnternetten tanıştığımız insanlarla  gerçek hayatta zarar görebiliriz.
 
-    - İnternette bulunan bilgilerin bir denetimden geçmeden sunulduğunu bilerek değerlendirmeliyiz. Bundan dolayı yanlış bilgilerler yönlendirilebilir veya yanlış bilgilerler iş ve işlemler yapabiliriz.
-    - İnternetten tanıştığımız insanlarla  gerçek hayatta zarar görebiliriz.
-
-	.. image:: /_static/images/iletisim-bilgi.svg
-	  :width: 150
-	  :alt: Alternative text
+.. image:: /_static/images/iletisim-bilgi.svg
+  :width: 200
+  :alt: Alternative text
 
 .. raw:: pdf
 

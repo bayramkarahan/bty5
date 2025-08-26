@@ -38,6 +38,10 @@ Bilgi ve Veri Güvenliği için şunlara dikkat etmemiz gerekmektedir;
 
 https://www.passwordmonster.com/
 
+.. image:: /_static/images/riskvetehlike-strongpassword.svg
+  :width: 500
+  :alt: Alternative text
+  
 - abc
 - 123
 - abc123

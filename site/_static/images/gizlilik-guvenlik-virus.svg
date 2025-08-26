@@ -2,13 +2,13 @@
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
 <svg
-   height="800px"
-   width="800px"
+   height="504.34784"
+   width="800"
    version="1.1"
    id="Capa_1"
-   viewBox="0 0 460 460"
+   viewBox="0 0 460 290"
    xml:space="preserve"
-   sodipodi:docname="antivirus-svgrepo-com(1).svg"
+   sodipodi:docname="gizlilik-guvenlik-virus.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,43 +25,44 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="0.67375"
-   inkscape:cx="346.56772"
-   inkscape:cy="519.48052"
+   inkscape:cx="347.30983"
+   inkscape:cy="166.23377"
    inkscape:window-width="1366"
-   inkscape:window-height="675"
+   inkscape:window-height="667"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="Capa_1" />
 <g
-   id="XMLID_1445_">
+   id="XMLID_1445_"
+   transform="translate(0,-85)">
 	<g
    id="XMLID_1260_">
 		<polyline
    id="XMLID_2403_"
-   style="fill:#BDC3C7;"
+   style="fill:#bdc3c7"
    points="70,325 70,116 390,116 390,325   " />
 	</g>
 	<g
    id="XMLID_21_">
 		<polyline
    id="XMLID_2622_"
-   style="fill:#ECF0F1;"
+   style="fill:#ecf0f1"
    points="70,307.354 70,116 374.395,116 374.395,307.354   " />
 	</g>
 	<g
    id="XMLID_1259_">
 		<path
    id="XMLID_2402_"
-   style="fill:#3C5768;"
-   d="M26.5,375h407c14.636,0,26.5-11.864,26.5-26.5V325H0v23.5    C0,363.136,11.864,375,26.5,375z" />
+   style="fill:#3c5768"
+   d="m 26.5,375 h 407 c 14.636,0 26.5,-11.864 26.5,-26.5 V 325 H 0 v 23.5 C 0,363.136 11.864,375 26.5,375 Z" />
 	</g>
 	<g
    id="XMLID_1258_">
 		<path
    id="XMLID_2401_"
-   style="fill:#8FA6B4;"
-   d="M394,85H66c-14.359,0-26,11.641-26,26v214h30V116h320v209h30V111    C420,96.641,408.359,85,394,85z" />
+   style="fill:#8fa6b4"
+   d="M 394,85 H 66 C 51.641,85 40,96.641 40,111 V 325 H 70 V 116 h 320 v 209 h 30 V 111 C 420,96.641 408.359,85 394,85 Z" />
 	</g>
 	
 	<g
@@ -71,7 +72,7 @@
 </g>
 <g
    id="XMLID_992_"
-   transform="matrix(0.22432614,0,0,0.22082666,134.68932,194.97765)">
+   transform="matrix(0.22432614,0,0,0.22082666,134.68932,109.97765)">
 	<g
    id="XMLID_897_">
 		<path
@@ -165,7 +166,7 @@
    d="m 265.758,73.447 c 18.272,15.056 29.93,36.688 29.93,56.698 0,35.462 -36.614,52.39 -81.78,52.39 -19.673,0 -37.719,-3.214 -51.828,-9.77 14.682,13.687 39.62,20.335 67.92,20.335 45.166,0 81.78,-16.928 81.78,-52.39 0,-25.395 -18.777,-53.404 -46.022,-67.263 z" />
 </g><g
    id="g384"
-   transform="translate(12.374768,5.1453932)"><g
+   transform="translate(12.374768,-79.85461)"><g
      id="XMLID_1101_">
 		<path
    id="XMLID_2400_"
@@ -174,4 +175,100 @@
 	</g><path
      id="XMLID_2399_"
      style="fill:#6aac4b"
-     d="M 230,270.694 195.326,251.19 c -7.403,-4.164 -11.984,-11.997 -11.984,-20.491 V 177.385 L 230,162.8 Z" /></g></svg>
+     d="M 230,270.694 195.326,251.19 c -7.403,-4.164 -11.984,-11.997 -11.984,-20.491 V 177.385 L 230,162.8 Z" /></g><text
+   xml:space="preserve"
+   style="font-size:39.9472px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.749011"
+   x="266.55963"
+   y="236.81581"
+   id="text879"
+   transform="scale(0.85611014,1.168074)"><tspan
+     sodipodi:role="line"
+     id="tspan877"
+     style="font-size:39.9472px;fill:#ffffff;stroke-width:0.749011"
+     x="266.55963"
+     y="236.81581">Antivirüs Program</tspan><tspan
+     sodipodi:role="line"
+     style="font-size:13.8px;fill:#ffffff;stroke-width:0.749011"
+     x="266.55963"
+     y="286.74982"
+     id="tspan5507" /></text><text
+   xml:space="preserve"
+   style="font-size:23px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.575"
+   x="111.16458"
+   y="50.002331"
+   id="text937"><tspan
+     sodipodi:role="line"
+     id="tspan935"
+     style="font-size:23px;stroke-width:0.575"
+     x="111.16458"
+     y="50.002331" /><tspan
+     sodipodi:role="line"
+     style="font-size:23px;stroke-width:0.575"
+     x="111.16458"
+     y="78.752335"
+     id="tspan988"> </tspan><tspan
+     sodipodi:role="line"
+     style="font-size:23px;stroke-width:0.575"
+     x="111.16458"
+     y="107.50233"
+     id="tspan993"> </tspan><tspan
+     sodipodi:role="line"
+     style="font-size:23px;stroke-width:0.575"
+     x="111.16458"
+     y="136.25233"
+     id="tspan996"> </tspan><tspan
+     sodipodi:role="line"
+     style="font-size:23px;stroke-width:0.575"
+     x="111.16458"
+     y="165.00233"
+     id="tspan1000" /></text><text
+   xml:space="preserve"
+   style="font-size:23px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.575"
+   x="109.12495"
+   y="52.057178"
+   id="text996"><tspan
+     sodipodi:role="line"
+     id="tspan994"
+     style="stroke-width:0.575"
+     x="109.12495"
+     y="52.057178">Mcafee</tspan></text><text
+   xml:space="preserve"
+   style="font-size:23px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.575"
+   x="93.760841"
+   y="76.666885"
+   id="text1001"><tspan
+     sodipodi:role="line"
+     id="tspan999"
+     style="fill:#000000;stroke-width:0.575"
+     x="93.760841"
+     y="76.666885">AVG</tspan></text><text
+   xml:space="preserve"
+   style="font-size:23px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.575"
+   x="98.907265"
+   y="103.19347"
+   id="text1005"><tspan
+     sodipodi:role="line"
+     id="tspan1003"
+     style="stroke-width:0.575"
+     x="98.907265"
+     y="103.19347">Avira</tspan></text><text
+   xml:space="preserve"
+   style="font-size:23px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.575"
+   x="104.00101"
+   y="125.3875"
+   id="text1009"><tspan
+     sodipodi:role="line"
+     id="tspan1007"
+     style="stroke-width:0.575;fill:#000000"
+     x="104.00101"
+     y="125.3875">Panda</tspan></text><text
+   xml:space="preserve"
+   style="font-size:23px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.575"
+   x="92.099121"
+   y="148.57347"
+   id="text1013"><tspan
+     sodipodi:role="line"
+     id="tspan1011"
+     style="stroke-width:0.575"
+     x="92.099121"
+     y="148.57347">Eset</tspan></text></svg>
