@@ -1,4 +1,4 @@
-5-1-3-Dosya Yönetimi
+5-1-6-Dosya Yönetimi
 ====================
 .. toctree::
 	:glob:
