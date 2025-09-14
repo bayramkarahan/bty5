@@ -1,7 +1,6 @@
-BTY5
-====
+.. footer:: ###Page###
+
 .. toctree::
 	:glob:
 
-	*/index
 	[0-9]*
