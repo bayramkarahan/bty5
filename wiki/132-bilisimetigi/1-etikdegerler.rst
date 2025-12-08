@@ -5,23 +5,32 @@ Etik yaptığımız davranışların ahlak açısından uygun olup olmadığın�
 
 
 
-İnternet Etiği:
+Bilişim Etiği:
 +++++++++++++++++
 
-Bilişim teknolojilerini kullanarak internette yaptığımız eylemlerin etik kurallara uygun olarak yapılması gerekmektedir. Etik kurallara uygun olmadığında bir çok maddi manevi olumsuzluklarla karşılaşabiliriz.
+Bilişim etiği, bilgisayar, internet ve teknoloji kullanırken uyulması gereken doğru, dürüst ve güvenli davranış kurallarıdır.
 
 .. image:: /_static/images/etikdegerler-etik.svg
   :width: 400
   :alt: Alternative text
 
 
-İnternet'te dikkat edilmesi gereken eylemler şunlardır;
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Bilişim Etiğine Uygun Davranışlar
++++++++++++++++++++++++++++++++++
 
-    - Sosyal medyada etik davranışlar sergilemeliyiz.
-    - Her türlü bilgiyi KVKK'ya uygun şekilde paylaşmalıyız.
-    - Siber zorbalık yapmamalıyız.
+✔ Doğru kullanmak: Bilgiyi çalmamak, kopyalamamak, başkasının hakkını ihlal etmemek.
 
+✔ Saygılı olmak: Başkalarının gizliliğine ve kişisel verilerine karışmamak.
+
+✔ Zarar vermemek: Virüs, saldırı, tehdit, hakaret gibi kötü amaçlı davranışlardan uzak durmak.
+
+✔ Adil olmak: Teknolojiyi herkes için eşit ve yararlı şekilde kullanmak.
+
+✔ Sosyal medyada etik davranışlar sergilemeliyiz.
+
+✔ Her türlü bilgiyi KVKK'ya uygun şekilde paylaşmalıyız.
+
+✔ Siber zorbalık yapmamalıyız.
 
 
 KVKK(Kişisel Verileri Koruma Kurumu):
@@ -50,13 +59,6 @@ Siber zorbalık, bilgi ve iletişim teknolojilerini kullanarak internet üzerind
 .. image:: /_static/images/etikdegerler-siberzorba.svg
   :width: 400
   :alt: Alternative text
-
-
-
-Bilişim Etiği:
-++++++++++++++
-
-Siber zorbalık yapmadan ve KVKK kurallarına göre etik davranışlar sergilemektir.
 
 
 	

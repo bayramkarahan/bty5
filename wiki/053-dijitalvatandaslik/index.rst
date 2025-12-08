@@ -1,4 +1,4 @@
-5-1-3-Dijital vatandaşlık uygulamaları
+5-1-3-Dijital Vatandaşlık Uygulamaları
 ======================================
 .. toctree::
 	:glob:

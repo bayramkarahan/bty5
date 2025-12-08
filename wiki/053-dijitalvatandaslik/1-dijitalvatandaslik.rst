@@ -54,8 +54,26 @@ Pasif Bilgi Toplama:
 
 Aktif Bilgi Toplama:
 ++++++++++++++++++++
-	
-	
+
+Dijital Ayak İzi:
++++++++++++++++++
+
+Dijital ayak izi, internette yaptığın her hareketin geride bıraktığı izdir.
+
+✔️ Paylaştığın şeyler
+✔️ Girdiğin siteler
+✔️ Arama geçmişin
+✔️ Sosyal medya aktivitelerin
+
+Hepsi dijital ayak izi oluşturur.
+
+Kısacası:
+---------
+
+İnternette yaptığın her şey kaydolur ve seni izleyebilir hale getirir.
+
+
+
 .. raw:: pdf
 
    PageBreak
