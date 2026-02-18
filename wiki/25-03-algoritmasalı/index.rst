@@ -1,4 +1,4 @@
-5-2-6-Mantiklidusunuyorum
+5-2-3 Algoritma Oluşturma
 =========================
 .. toctree::
 	:glob:

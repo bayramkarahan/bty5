@@ -1,4 +1,4 @@
-5-2-8-1 Algoritma Örnekleri
+5-2-4 Algoritma Örnekleri
 ===========================
 .. toctree::
 	:glob:
