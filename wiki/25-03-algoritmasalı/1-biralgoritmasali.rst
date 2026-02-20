@@ -1,6 +1,3 @@
-Yönergeleri Takip Et :
-======================
-
 **Algoritma Nedir?**
 --------------------
 
@@ -45,7 +42,7 @@ Algoritma yapacağımız işlemleri sırasıyla yapma işlemidir. Bir önceki ko
 
 Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazınız.. İşlem adımları resimle aşağıda gösterilmiştir.
 
-.. image:: /_static/images/biralgoritmamasali-kk0-1.svg
+.. image:: /_static/images/biralgoritmamasali-kk0-0.svg
   :width: 600
   :alt: Alternative text
 
@@ -79,12 +76,13 @@ Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazı
 Buna benzer şekilde yapacağımız işlemleri algoritmaya dökmemiz gerekmektedir.
 Algoritmalar yazılırken şunlara dikkat etmeliyiz.
 
-    1. Basit olmalı
-    2. Sade olmalı
-    3. Net olmalı
-    4. Anlaşılır olmalı
-    5. Sembolik olmalı
-    6. Mantık sırasıyla
+    1. Mantık sırasıyla olmalı
+    2. Maddeler halinde olmalı
+    3. Basit , sade, anlaşılır, kısa ve net olmalı
+    4. Sembolik olmalı
+    5. İlk maddesi **Başla** olmalı
+    6. Son maddesi **Son** olmalı
+    7. Çözüm üretmeli    
 
 
 Şimdi Kurt, Kuzu Ot problemini algoritma kurallarına göre yazalım.
@@ -130,4 +128,4 @@ Bu problemde A sütunundan C sütununa büyükten küçüğe doğru en kısa yol
 
 .. raw:: pdf
 
-   PageBreak
+   PgeBreak

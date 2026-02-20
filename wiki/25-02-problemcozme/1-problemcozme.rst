@@ -61,11 +61,8 @@ Birçok problemimizi bilgisayar veya telefon kullanmadan çözmemiz zor olabilme
 **Bilişimde Problem Çözümlemesi(Algoritma):**
 ---------------------------------------------
 
-Bir çok problemimizi bilgisayar ve telefonda çalışan uygulamalar sayeyinde çözmekteyiz. Bu yazılımları oluşturmak(kodlamak) için yapılan işlemlere **kodlama** denilir. Uygulamaların sorunları nasıl çözeceğini ve uygulamanı yapacağı işlem adımları yazma işlemine **Bilişimde Problem Çözümlemesi(Algoritma)** denir.  
-Problemin çözümü maddeler halinde yazılmalıdır.
+Bir çok problemimizi bilgisayar ve telefonda çalışan uygulamalar sayeyinde çözmekteyiz. Bu uygulamaları oluşturmak(kodlamak) için yapılan işlemlere **kodlama** denilir. Uygulamaların sorunları nasıl çözüleceğini ve uygulamanın yapacağı işlem adımlarını yazma işlemine **Bilişimde Problem Çözümlemesi(Algoritma)** denir. Problemin çözümü maddeler halinde yazılmalıdır.
 
-
-	
 .. raw:: pdf
 
    PageBreak

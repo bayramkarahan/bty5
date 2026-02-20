@@ -8,8 +8,8 @@ Tavşanın havuca ulaşması için yapılması gereken işlem adımlarını yaz�
   :width: 600
   :alt: Alternative text
   
-**Problem Algoritmas:**
------------------------
+**Problem Algoritması:**
+------------------------
 
 1. Basla
 2. Sola Don
