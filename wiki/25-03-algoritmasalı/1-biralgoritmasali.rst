@@ -76,7 +76,7 @@ Kurt, kuzu ve ot zarar görmeden karşı kıyıya geçmesi için algoritma yazı
 Buna benzer şekilde yapacağımız işlemleri algoritmaya dökmemiz gerekmektedir.
 Algoritmalar yazılırken şunlara dikkat etmeliyiz.
 
-    1. Mantık sırasıyla olmalı
+    1. Mantık sırasıyla olmalı 
     2. Maddeler halinde olmalı
     3. Basit , sade, anlaşılır, kısa ve net olmalı
     4. Sembolik olmalı
@@ -128,4 +128,4 @@ Bu problemde A sütunundan C sütununa büyükten küçüğe doğru en kısa yol
 
 .. raw:: pdf
 
-   PgeBreak
+   PageBreak

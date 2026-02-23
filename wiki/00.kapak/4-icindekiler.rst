@@ -4,7 +4,7 @@
 .. list-table::
    :widths: 60 10
 
-   * - 1- :ref:`temelkavramlar`
+   * - 1- 
      - 5
    * - 8- :ref:`kaynaklar`
      - 147

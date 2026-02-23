@@ -4,7 +4,7 @@ Temel Kavramlar
 **Günlük Hayatta Problem:**
 ---------------------------
 
-Günlük hayatta karşılaştığımız çÇözülmesi gereken sorunlardır.
+Günlük hayatta karşılaştığımız çözülmesi gereken sorunlardır.
  
 Örneğin;
 
@@ -54,7 +54,7 @@ Birçok problemimizi bilgisayar veya telefon kullanmadan çözmemiz zor olabilme
 Örneğin;
 
 - Birine para göndermek
-- görüntülü görüşme yapmak
+- Görüntülü görüşme yapmak
 - İşyerinin hesapları takip etmek
 - Bir otelin konaklayanlarının işlewrini takip etmek vb.
 
