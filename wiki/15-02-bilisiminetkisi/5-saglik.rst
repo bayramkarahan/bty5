@@ -1,7 +1,27 @@
-Bit'in Sağlığa Etkisi
-+++++++++++++++++++++
+**Bit'in Sağlığa Etkisi**
++++++++++++++++++++++++++
 
-Fakat bilişim cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en aza indirmek için şunlara dikkat etmeliyiz.
+Bilişim teknolojilerinin sağlığa olumlu ve olumsuz etkileri vardır. Bunlar;
+
+**Olumlu Etkileri**
+-------------------
+
+- Ameliyatlar kolaylaştı
+- Tedaviler kolaylaştı
+- Tedavi cihazları gelişti
+- Robotik cerrahi gelişti
+
+**Olumsuz Etkileri**
+--------------------
+
+- Eklem bozuklukları
+- Göz bozuklukları
+- Dijital bağımllık
+- Yanlızlaşma(asosyalleşme)
+- Obezite
+- Karpal tunel sendrom(bilekte sinir sıkışması)
+
+Bilişim cihazlarını kullanırken sağlığımız risk altındadır. Bu riski en aza indirmek için şunlara dikkat etmeliyiz.
 
 
     - Ergonomik ürünler tercih etmeliyiz
@@ -11,7 +31,7 @@ Fakat bilişim cihazlarını kullanırken sağlığımız risk altındadır. Bu 
 	  :alt: Alternative text
 
     - Sık Sık çalışmaya ara vermeliyiz
-    - Ekrandan 45cm uzak durmalıyız.
+    - Ekrana belli mesafeden bakmalıyız.
     
 	.. image:: /_static/images/bilisiminonemi-saglik-boyun.svg
 	  :width: 400
