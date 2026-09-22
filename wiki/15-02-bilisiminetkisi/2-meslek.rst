@@ -1,5 +1,5 @@
-Bit'in Meslekelere Etkisi
-+++++++++++++++++++++++++
+**Bilişimin Meslekelere Etkisi**
+++++++++++++++++++++++++++++++++
 
 Bilişim alanındaki gelişmelerin olmasıyla yeni meslekler ve iş alanları oluşmuştur. Bu iş alanları ve meslekler şunlardır;
 

@@ -1,5 +1,5 @@
-Bit'in Kültüre Etkisi
-+++++++++++++++++++++
+**Bilişimin Kültüre Etkisi**
+++++++++++++++++++++++++++++
 
 Bilişim bir çok alanı etkilemesi ile Dünya genelinde kültürler arası etkileşimin olmasına da sebep olmuştur. Etkileşimin en fazla olduğu alanlar şunlardır;
 

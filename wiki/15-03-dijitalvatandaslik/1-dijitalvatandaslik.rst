@@ -27,7 +27,7 @@ Dijital kimlik internet üzerinden oluşturduğumuz kullanıcı hesapları ve bu
 - Instagram Hesabı,
 - Twitter Hesabı vb.
 
-.. image:: /_static/images/dijitalvatandaslik-hesap.svg
+.. image:: /_static/images/dijitalkimlik.svg
   :width: 400
   :alt: Alternative text
 
