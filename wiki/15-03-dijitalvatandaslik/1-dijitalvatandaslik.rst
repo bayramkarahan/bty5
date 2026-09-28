@@ -33,11 +33,12 @@ Dijital kimlik internet üzerinden oluşturduğumuz kullanıcı hesapları ve bu
 
 Bu hesapları oluştururken verdiğimiz bilgiler bizim dijital kimliğimiz olmaktadır.
 
-Dijital Kimliğimizle Dikkat Etmemiz Gerekenler:
-+++++++++++++++++++++++++++++++++++++++++++++++
+Dijital Kimlikte Dikkat Edilmesi Gerekenler Kurallar:
++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 İnternet'te oluşturduğumuz hesaplar bizlerin dijital kimliği olduğunu dikkate alıp, dijital kimliğimizle yaptığımız işlemlerde şunlara dikkat etmemiz gerekmektedir;
 
+    - İnernet hesaplarımıza ait bilgileri(parola) paylaşmamalıyız
     - Gerçek kimlik bilgilerimiz ile aynı olması mecburi değildir.
     - Sosyal medyada mümkün olduğu kadar gerçek kimlik bilgilerimizi az vermeliyiz.
     - Sosyal medyada çok az fotoğraf vb. bilgiler paylaşmalıyız.
@@ -58,12 +59,17 @@ Aktif Bilgi Toplama:
 Dijital Ayak İzi:
 +++++++++++++++++
 
-Dijital ayak izi, internette yaptığın her hareketin geride bıraktığı izdir.
+Dijital ayak izi, internette ve bilgisayarda başkaları tarafından bize ait ulaşabildikleri her türlü bigiye dijital ayak izi denir.
+
 
 ✔️ Paylaştığın şeyler
+
 ✔️ Girdiğin siteler
+
 ✔️ Arama geçmişin
+
 ✔️ Sosyal medya aktivitelerin
+
 
 Hepsi dijital ayak izi oluşturur.
 
